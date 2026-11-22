@@ -91,3 +91,13 @@ th {
   color: #2e7d5b;
   font-weight: bold;
 }
+
+/* o campo com problema ganha borda vermelha */
+.campo-erro {
+  border-color: #c22450;
+  background: #fff5f7;
+}
+
+.aviso.erro {
+  color: #c22450;
+}
